@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Intent</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello</string>
+    
+    <string name="title_activity_name">Name Activity</string>
+    
+    <string name="done">Say my name!</string>
+    <string name="name_hint">Enter name</string>
+    <string name="action_add">Name</string>
+
+</resources>
